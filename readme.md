@@ -36,11 +36,11 @@ Você precisará de um navegador web moderno (como Chrome, Firefox ou Edge) para
 
 1.  **Clone o repositório:**
     ```bash
-    git clone https://seu-link-do-repositorio
+    git clone https://github.com/enocmarvaoo-rgb/Calculadora.git
     ```
 2.  **Navegue até o diretório do projeto:**
     ```bash
-    cd nome-do-projeto-da-calculadora
+    cd calculadora
     ```
 3.  **Abra o arquivo `index.html`:**
     Basta dar um clique duplo no arquivo `index.html` ou abri-lo diretamente no seu navegador.
@@ -56,7 +56,7 @@ O design é caracterizado por um **tema escuro profundo** com contraste de cores
 * **Botões de Operação (+, -, x, ÷, =):** Azuis vibrantes para distinção das funções matemáticas.
 * **Botões de Controle (C, ←):** Vermelho escuro para destacar as ações de limpeza/remoção.
 
-[Imagem da Calculadora com tema escuro](assets/calculatora.png)
+[Imagem da Calculadora ](assets/calculadora.png)
 
 
 
@@ -64,7 +64,7 @@ O design é caracterizado por um **tema escuro profundo** com contraste de cores
 
 ## 📄 Licença
 
-Este projeto está licenciado sob a Licença **[MIT]** - veja o arquivo [LICENSE.md](LICENSE.md) para detalhes.
+Este projeto está licenciado sob a Licença **[MIT]** - veja o arquivo [LICENSE](LICENSE) para detalhes.
 
 ---
 
