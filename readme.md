@@ -72,8 +72,7 @@ Este projeto está licenciado sob a Licença **[MIT]** - veja o arquivo [LICENSE
 
 **Enoc Wellington**
 
-* **GitHub:** [@enocmarvaoo.rgb](https://github.com/enocmarvaoo.rgb)
-* **LinkedIn:** [Enoc Wellington](www.linkedin.com/in/enoc-wellington-062507352)
+
 
 
 ---
